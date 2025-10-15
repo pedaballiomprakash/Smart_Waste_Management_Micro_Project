@@ -48,7 +48,7 @@ Expandable — add predictions, route planning, or AI logic
 
 ### Step 1 — Setup
 
-git clone https://github.com/pedaballiomprakash/Smart_Waste_Management_System.git
+git clone https://github.com/pedaballiomprakash/Smart_Waste_Management_Micro_Project.git
 cd Smart_Waste_Management_System
 python -m venv venv
 venv\Scripts\activate   # or source venv/bin/activate on Mac/Linux
