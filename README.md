@@ -3,6 +3,14 @@
 The Smart Waste Management System is an AI-driven simulation project designed to demonstrate how IoT-based smart bins can improve urban waste collection.
 
 This project uses virtual sensors, real-time data transmission (MQTT), local data storage (SQLite), and a Streamlit dashboard for visualization — showing how data-driven decisions can optimize waste management in smart cities.
+### Collaborators
+## 👥 Collaborators
+
+| Name | GitHub Profile |
+|------|----------------|
+| Shaik Afroz | [@AfrozAfru](https://github.com/AfrozAfru) |
+| Pedaballi Om Prakash Reddy | [@pedaballiomprakash](https://github.com/pedaballiomprakash) |
+| Grandhe Ganapathi Sai Abhishek | [@Abhi912000](https://github.com/Abhi912000) |
 
 ### Objective
 
